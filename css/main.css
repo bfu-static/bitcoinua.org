@@ -271,7 +271,7 @@ html, body {
 	width: 98%;
 	height: auto;
 	margin-top: 30px;
-	margin-bottom: 68px;
+	margin-bottom: 20px;
 	display: inline-block;
 	position: relative;
 	font-size: 100%;
@@ -394,7 +394,7 @@ html, body {
 
 
 #store {
-	margin-bottom: 20px;
+	margin-bottom: auto;
 }
 
 #store-container {
