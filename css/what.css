@@ -345,29 +345,29 @@
 
 #store-3b {
 	top: 50.4%;
-	left: 81.7%;
-	width: 16%;
+	left: 79.0%;
+	width: 20%;
 	color: #2e3645;
 }
 
 #store-3c {
 	top: 58.1%;
-	left: 81.7%;
-	width: 16%;
+	left: 79.0%;
+	width: 20%;
 	color: #2e3645;
 }
 
 #store-3d {
 	top: 65.7%;
-	left: 81.7%;
-	width: 16%;
+	left: 79.0%;
+	width: 20%;
 	color: #2e3645;
 }
 
 #store-3e {
 	top: 73.5%;
-	left: 81.7%;
-	width: 16%;
+	left: 79.0%;
+	width: 20%;
 	color: #2e3645;
 }
 
@@ -385,18 +385,19 @@
 
 #store-4b {
 	top: 90.6%;
-	left: 44.4%;
+	left: 43.4%;
 	width: 20%;
 	font-weight: 600;
 }
 
 #store-4c {
-	top: 90.6%;
-	left: 77%;
+	top: 88.6%;
+	left: 75.3%;
 	width: 17%;
 	color: #f3ae00;
-	font-weight: 600;
+	font-weight: 400;
 	letter-spacing: -0.08em;
+	text-align:center;
 }
 
 #store-container a {
