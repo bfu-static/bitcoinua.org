@@ -1,17 +1,18 @@
 #verification-1a {
 	top: 1.7%;
 	left: 7.1%;
-	width: 25.3%;
+	width: 26.3%;
 }
 
 #verification-1b {
 	top: 10.4%;
 	left: 14.6%;
 	width: 18.1%;
+	font-size:90%;
 }
 
 #verification-1c {
-	top: 21.8%;
+	top: 20.8%;
 	left: 20.5%;
 	width: 11.3%;
 }
@@ -77,6 +78,7 @@
 	left: 10.9%;
 	width: 21.5%;
 	color: #b3b3b3;
+	font-size:90%;
 }
 
 #verification-3c1 {
@@ -91,6 +93,7 @@
 	left: 10.9%;
 	width: 21.5%;
 	color: #b3b3b3;
+	font-size:90%;
 }
 
 #verification-3d {
@@ -110,24 +113,27 @@
 
 
 #verification-4a {
-	top: 62.6%;
-	left: 40.3%;
-	width: 26.5%;
+	top: 62.3%;
+	left: 40.0%;
+	width: 27.5%;
 	color: #b3b3b3;
+	font-size:80%;
 }
 
 #verification-4b {
-	top: 62.6%;
-	left: 74.3%;
-	width: 23.5%;
+	top: 62.3%;
+	left: 73.5%;
+	width: 25.5%;
 	color: #b3b3b3;
+	font-size:80%;
 }
 
 
 #verification-5 {
-	top: 81%;
+	top: 82%;
 	left: 45.3%;
 	width: 37.5%;
+	font-size:115%;
 }
 
 #verification-6 {
