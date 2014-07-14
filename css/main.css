@@ -940,5 +940,5 @@ html, body {
 }
 
 div#what-is-bitcoin {
-display: none !none;
+display: none !important;
 }
